@@ -44,10 +44,10 @@ params:
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
+  orgLocal: Wuhan, CN
+  orgName: 环工2303
   sharing_image: /img/papillons.jpg
-  social:
+  social_bak:
     - icon: github
       icon_pack: fab
       url: https://github.com/apreshill/apero
