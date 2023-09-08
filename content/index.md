@@ -1,5 +1,6 @@
 ---
-title: "这是环工2303的网站"
+title: "环工2303"
+subtitle: "Huazhong Agricultural University"
 date: "2023-09-07"
 ---
 
