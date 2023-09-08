@@ -84,6 +84,16 @@ taxonomies:
   category: categories
   series: series
   tag: tags
+menu:
+  header:
+    - name: About
+      title: About Blogophonic
+      url: /about/
+      weight: 1
+    - name: Blog
+      title: Blog
+      url: /blog/
+      weight: 2
 menu_bak:
   footer:
     - name: License
