@@ -2,7 +2,7 @@
 title: "这是环工2303的网站"
 date: "2023-09-07"
 action_label: Read More &rarr;
-action_link: /post
+action_link: /blog
 action_type: text
 description: 环工2303@HZAU
 image_left: true
