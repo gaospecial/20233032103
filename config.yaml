@@ -1,10 +1,10 @@
 baseURL: /
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
-copyright: ''
-googleAnalytics: ''
+title: 环工2303
+author: gaoch
+copyright: '环工2303'
+googleAnalytics: 'https://20233032103.top/'
 disqusShortname: ''
 metaDataFormat: yaml
 footnoteReturnLinkContents: '&#8617;'
@@ -33,7 +33,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: 环工2303@HZAU
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark-dark.png
