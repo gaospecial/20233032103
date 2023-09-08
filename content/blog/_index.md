@@ -1,5 +1,5 @@
 ---
-title: A Blog That Works
+title: Blog
 author: gaoch
 cascade:
   author: gaoch
@@ -16,7 +16,7 @@ layout: list-sidebar
 show_author_byline: true
 show_button_links: true
 show_post_date: true
-show_post_thumbnail: true
+show_post_thumbnail: false
 sidebar:
   author: gaoch@环工2303-HZAU
   categories_link: true
