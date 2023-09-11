@@ -77,7 +77,7 @@ params:
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
-    repo_name: apreshill/apero
+    repo_name: gaospecial/20233032103.top
     theme: boxy-light
     use_utterances: yes
 taxonomies:
