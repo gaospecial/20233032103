@@ -2,8 +2,8 @@
 title: Yi Liu's College
 author: "liuyi"
 date: '2023-09-13'
-slug:to-my-college-by-liuyi
-categories: 
+slug: to-my-college-by-liuyi
+categories:
   - 散文
 tags: 
   - 我的大学
