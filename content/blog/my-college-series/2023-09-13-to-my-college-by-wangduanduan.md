@@ -1,7 +1,7 @@
 ---
 title: Duanduan Wang's College
 author: "wangduanduan"
-date: '2023-09-11'
+date: '2023-09-13'
 slug: to-my-college-by-wangduanduan
 categories:
   - 散文

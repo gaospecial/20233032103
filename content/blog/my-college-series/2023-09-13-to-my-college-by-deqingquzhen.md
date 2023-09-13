@@ -1,7 +1,7 @@
 ---
 title: Deqing Quzhen's College
 author: "deqingquzhen"
-date: '2023-09-11'
+date: '2023-09-13'
 slug: to-my-college-by-deqingquzhen
 categories:
   - 散文
