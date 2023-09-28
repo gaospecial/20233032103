@@ -94,6 +94,10 @@ menu:
       title: Blog
       url: /blog/
       weight: 2
+    - name: News
+      title: News
+      url: /news/
+      weight: 3
 menu_bak:
   footer:
     - name: License

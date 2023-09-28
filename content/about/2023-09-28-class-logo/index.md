@@ -21,8 +21,7 @@ tags:
 4.  旭日在东，象征班级整体蒸蒸而上
 5.  青山碧水，绿草蓝天,体现环工特色
 
-![](https://vnote-1251564393.cos.ap-chengdu.myqcloud.com/班徽-李俊方案.jpg)
-
+![](https://vnote-1251564393.cos.ap-chengdu.myqcloud.com/class-logo-by-lijun.jpg)
 
 ## 青春无穷
 
