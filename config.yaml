@@ -36,7 +36,7 @@ params:
   description: 环工2303@HZAU
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/class-logo.png
   mainSections:
     - blog
     - project
