@@ -1,12 +1,15 @@
 ---
-title: 环工2303班徽
 author: gaoch
-date: '2023-09-28'
-slug: class-logo
 categories:
-  - 关于我们
+- 班级建设
+date: "2023-09-28"
+draft: false
+excerpt: 开学伊始，我们向全体班级征集了班徽设计方案，有 3 位同学提交了作品。
+layout: single
+subtitle: 三种班徽设计方案
 tags:
-  - 班徽
+- 班徽
+title: 班徽设计
 ---
 
 ## 骏马驰骋
@@ -52,4 +55,5 @@ tags:
 
 
 ![](https://vnote-1251564393.cos.ap-chengdu.myqcloud.com/class-logo-by-mazihan.jpg)
+
 
