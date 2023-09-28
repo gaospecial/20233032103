@@ -17,6 +17,8 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 enableEmoji: yes
+hasCJKLanguage: yes
+summaryLength: 50
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
