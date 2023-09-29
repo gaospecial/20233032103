@@ -1,7 +1,7 @@
 ---
 title: 班级选举出第一届班委会
 author: gaoch
-date: '2023-09-28'
+date: '2023-09-27'
 slug: election-of-class-committee
 categories:
   - News
