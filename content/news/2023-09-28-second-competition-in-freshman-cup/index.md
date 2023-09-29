@@ -11,16 +11,6 @@ tags:
   - 篮球
   - 体育
   - 新生杯
-subtitle: ''
-excerpt: ''
-draft: yes
-series: ~
-layout: single
-links:
-  - icon: door-open
-    icon_pack: fas
-    name: website
-    url: /
 ---
 
 我班级的篮球队在第二场比赛中以一分之差遗憾落败。
