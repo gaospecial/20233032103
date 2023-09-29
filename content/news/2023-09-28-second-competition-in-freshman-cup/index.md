@@ -1,0 +1,30 @@
+---
+title: 新生杯第二场比赛憾负
+author: gaoch
+date: '2023-09-28'
+slug: second-competition-in-freshman-cup
+categories:
+  - 班级活动
+  - News
+tags:
+  - 比赛
+  - 篮球
+  - 体育
+  - 新生杯
+subtitle: ''
+excerpt: ''
+draft: yes
+series: ~
+layout: single
+links:
+  - icon: door-open
+    icon_pack: fas
+    name: website
+    url: /
+---
+
+我班级的篮球队在第二场比赛中以一分之差遗憾落败。
+
+<!--more-->
+
+比赛比分为 24:25。
