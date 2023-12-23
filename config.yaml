@@ -96,19 +96,15 @@ taxonomies:
 menu:
   header:
     - name: About
-      title: About Blogophonic
+      title: 关于
       url: /about/
       weight: 1
     - name: Blog
-      title: Blog
+      title: 博客
       url: /blog/
       weight: 2
-    - name: News
-      title: News
-      url: /news/
-      weight: 3
     - name: Activities
-      title: Activities
+      title: 活动
       url: /activity/
       weight: 4
 menu_bak:
