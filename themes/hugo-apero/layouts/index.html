@@ -17,5 +17,22 @@
       </div>
     </div>
   </section>
+  
+  <section class="homepage bottom-line">
+  <h2 class="bottom-line">博客文章列表</h2>
+  <ul>
+    {{ range  where .RegularPagesRecursive "Type" "blog" }}
+      <li>
+        <h3>
+            <a href="{{ .Permalink }}">
+              {{ .Title }}
+            </a>
+        </h3>
+      </li>
+    {{ end }}
+  </ul>
+  </section>
+  
 </main>
 {{ end }}
+

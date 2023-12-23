@@ -1,1 +1,63 @@
 // Override this file to add your own SCSS styling.
+
+.homepage h2 {
+  text-align: center; /* 文本居中 */
+}
+
+.bottom-line {
+  border-bottom: 1px solid #ccc; /* 画一条细线，颜色可以根据需求调整 */
+  padding-bottom: 10px; /* 可以根据需要调整下方留白的大小 */
+}
+
+.homepage h3 a {
+  text-decoration: none; /* 移除链接下划线 */
+  color: inherit; /* 继承父元素颜色，以保持链接的默认颜色 */
+  font-family: serif;
+}
+
+.homepage ul {
+  list-style: none; /* 移除列表样式（如圆点）*/
+  padding: 0; /* 移除默认的内边距 */
+  margin: 0;
+}
+
+.homepage li {
+  display: inline-block; /* 将列表项显示为内联块元素 */
+  margin-right: 20px; /* 设置元素之间的右侧间距，可以根据需要调整 */
+}
+
+/* 使用媒体查询实现在屏幕宽度小于某个值时换行 */
+@media screen and (max-width: 600px) {
+  .homepage li {
+    display: block; /* 在小屏幕上将列表项显示为块元素，使其垂直排列 */
+    margin-right: 0; /* 移除右侧间距 */
+    margin-bottom: 5px; /* 设置元素之间的底部间距，可以根据需要调整 */
+  }
+}
+
+/* 为按钮添加圆角矩形和边缘空白 */
+.homepage li a {
+  border: 1px solid rgba(0, 0, 0, 0); /* 透明的1px边框 */
+  padding: 5px 10px; /* 调整按钮的内边距 */
+  border-radius: 5px; /* 添加圆角 */
+  transition: background-color 1s; /* 添加颜色过渡效果，持续3秒 */
+  transition: color 0.5s;
+}
+
+.homepage li a:hover {
+  border: 1px solid #ddd; /* 添加边框 */
+  background-color: #eee;
+  cursor: pointer;
+  background-color: #444; /* 鼠标悬停时文字颜色变为紫色 */
+  color: white !important;
+}
+
+iframe {
+  width: 700px;
+  height: 400px; /* 设置高度自适应 */
+}
+
+
+
+
+
