@@ -1,5 +1,5 @@
 ---
-title: 郭泽江同学参加校长杯短视频比赛
+title: 校长杯短视频比赛
 author: 高春辉
 date: '2023-12-15'
 slug: university-president-cup-vlog-competition
@@ -10,6 +10,10 @@ tags:
   - 短视频
   - 视频剪辑
 ---
+
+来看郭泽江参与拍摄的视频吧！
+
+<!--more-->
 
 ## 作品赏析
 
