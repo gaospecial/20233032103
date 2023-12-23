@@ -1,7 +1,7 @@
 ---
 title: 召开期中班会
 author: 高春辉
-date: '2023-12-1'
+date: '2023-12-01'
 slug: mid-term-class-meeting
 categories:
   - 新闻
