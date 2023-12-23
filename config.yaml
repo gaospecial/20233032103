@@ -95,14 +95,18 @@ taxonomies:
   tag: tags
 menu:
   header:
+    - name: Home
+      title: 主页
+      url: /
+      weight: 1
     - name: About
       title: 关于
       url: /about/
-      weight: 1
+      weight: 2
     - name: Blog
       title: 博客
       url: /blog/
-      weight: 2
+      weight: 3
     - name: Activities
       title: 活动
       url: /activity/
