@@ -17,7 +17,6 @@ show_action_link: true
 show_social_links: true
 subtitle: 第一张合影
 text_align_left: false
-title: 环工2303
 type: home
 ---
 
