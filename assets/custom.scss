@@ -57,15 +57,15 @@ iframe {
   height: 400px; /* 设置高度 */
 }
 
-.post-body p {
-  text-indent: 2em; /* 设置首行缩进为2个字符 */
+.post-body > p {
+  text-indent: 2em; /* 首行缩进 */
 }
 
-.post-body p:first-child {
+.post-body > p:first-child {
   text-indent: 0; /* 取消第一段的缩进 */
 }
 
-.post-body .pt5 {
+.post-body.pt5 {
   padding-top: 2em; /* 设置第一行上边距为 2 字符 */
 }
 
